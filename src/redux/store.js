@@ -9,10 +9,10 @@ import logger from 'redux-logger';
 const persistConfig = {
 	key: 'root',
 	storage,
-	whitelist: ['auth'], //nanti disini dimasukin yang ada di index reducers nya
+	whitelist: ['auth'],
 };
 
 const persistedReducer = persistReducer(persistConfig, rootReducer);
-let store = createStore(persistedReducer, applyMiddleware(thunk, logger)); // CARA STANDAR
+let store = createStore(persistedReducer, applyMiddleware(thunk, logger)); 
 let persistor = persistStore(store);
 export { store, persistor };
