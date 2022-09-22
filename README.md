@@ -44,7 +44,7 @@ npm Run Dev
 ## Screenshots  
 
   
-# Our Team - Tickitz!
+# Our Team!
  | profile | Name | Stack | Github | Linkedin |
  | ------- | ---- | ------ | ------ | -------- |
  | ![profile Ade][img-Ade] | Ade Ryzki Aprinata | Frontend | [Ade](https://github.com/ade-ryzki)|[Ade](https://www.linkedin.com/in/aderyzki/)
