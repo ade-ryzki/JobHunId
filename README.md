@@ -38,6 +38,7 @@ npm Run Dev
 - [x] Home. / (/)
 - [x] Admin / (/http://localhost:3000/admin)
 - [x] Input Data/ (http://localhost:3000/input)
+[x] Input Data/ (http://localhost:3000/input1)
 - [x] Login / (http://localhost:3000/login)
 - [x] SignUp/ (http://localhost:3000/signup)
 ## Screenshots  
