@@ -12,14 +12,14 @@
 # About :
   
 ---
-[![Netlify Status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](tizkitpremium.vercel.app)
+[![Netlify Status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)]()
 ## Getting Started
   
 ### Installation
   
 1. Clone this repos (JobHunt.Id)
 ```sh
-git clone https://github.com/ade-ryzki/coffeshopnext.git
+git clone https://github.com/ade-ryzki/JobHunId.git
 ```
 2. Go To Folder Repo
 ```sh
@@ -34,15 +34,12 @@ npm install
 ```sh
 npm Run Dev
 ```
-5. Website
-```sh
-tizkitpremium.vercel.app
-```  
 # Features Application
-- [x] Home.
-- [x] Forgot.
-- [x] Login.
-- [x] SignUp.
+- [x] Home. / (/)
+- [x] Admin / (/http://localhost:3000/admin)
+- [x] Input Data/ (http://localhost:3000/input)
+- [x] Login / (http://localhost:3000/login)
+- [x] SignUp/ (http://localhost:3000/signup)
 ## Screenshots  
 
   
